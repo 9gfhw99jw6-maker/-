@@ -236,7 +236,7 @@ end
 -- UI構成
 -- ============================================
 local Window = OrionLib:MakeWindow({
-    Name = "ちんちんキック😂",
+    Name = "お詫び",
     HidePremium = true,
     SaveConfig = false,
     IntroEnabled = false
