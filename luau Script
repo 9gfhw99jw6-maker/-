@@ -242,7 +242,7 @@ local Window = OrionLib:MakeWindow({
     IntroEnabled = false
 })
 
-local KickTab = Window:MakeTab({Name = "Kick Player", Icon = "rbxassetid://7733916988", PremiumOnly = false})
+local KickTab = Window:MakeTab({Name = "Kick Player", Icon = "rbxassetid://103966419660274", PremiumOnly = false})
 
 local PlayerDropdown = KickTab:AddDropdown({
     Name = "Select Player",
